@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/practicaFunciones/ejercicio3/bin/Debug/ejercicio3.exe
+/Users/luisnayib/Projects/practicaFunciones/ejercicio3/bin/Debug/ejercicio3.pdb
+/Users/luisnayib/Projects/practicaFunciones/ejercicio3/obj/anycpu/Debug/ejercicio3.exe
+/Users/luisnayib/Projects/practicaFunciones/ejercicio3/obj/anycpu/Debug/ejercicio3.pdb

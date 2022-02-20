@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/practicaFunciones/practicaFunciones/bin/Debug/practicaFunciones.exe
+/Users/luisnayib/Projects/practicaFunciones/practicaFunciones/bin/Debug/practicaFunciones.pdb
+/Users/luisnayib/Projects/practicaFunciones/practicaFunciones/obj/Debug/practicaFunciones.csprojAssemblyReference.cache
+/Users/luisnayib/Projects/practicaFunciones/practicaFunciones/obj/Debug/practicaFunciones.exe
+/Users/luisnayib/Projects/practicaFunciones/practicaFunciones/obj/Debug/practicaFunciones.pdb
